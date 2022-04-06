@@ -1,2 +1,2 @@
 # Tarjit
-Tarjit Html And Css And Js
+HTML AND CSS
